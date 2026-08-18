@@ -32,4 +32,4 @@ Team build under competition conditions, working with Git branching and merging 
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/thomaswilson-cpt-rsa) · thomasevanwilson@gmail.com
+[LinkedIn](www.linkedin.com/in/thomas-wilson-cpt-rsa) · thomasevanwilson@gmail.com
