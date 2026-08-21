@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=900&color=60a5fa&center=true&vCenter=true&width=650&height=70&lines=Building+the+DEAF+Framework+capstone;Bringing+an+accessibility+extension+to+mobile;Annotating+the+web+in+South+African+Sign+Language;Studying+compilers%2C+vision+and+verification" alt="What I am building" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=900&color=60a5fa&center=true&vCenter=true&width=720&height=70&lines=Final-year+CS+Honours%2C+Stellenbosch+University;Building+accessibility+tech%2C+race+optimisers%2C+and+compilers;Currently+shipping+the+DEAF+Framework+mobile+port;Open+to+SA+and+NL+roles+from+January+2027" alt="What I am building" />
 
 </div>
 
@@ -55,6 +55,8 @@ Comfortable across the stack, from low-level systems in C and Java through to cl
 
 </div>
 
+Also comfortable with Assembly and the Meta Cloud API, working across systems and networking, machine learning, API integration, accessibility technology, and agile development.
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 04 · Projects
@@ -84,19 +86,7 @@ Team build under competition conditions, working with Git branching and merging 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 05 · Tech
-
-```text
-Languages ...... Java  ·  Python  ·  C  ·  JavaScript  ·  SQL
-Familiar ....... Haskell  ·  HTML  ·  Assembly
-Tools .......... Git  ·  Linux  ·  Supabase  ·  MongoDB Atlas  ·  Meta Cloud API  ·  Stack (Haskell)
-Areas .......... Systems and networking  ·  Machine learning  ·  API integration
-                 Accessibility technology  ·  Agile development
-```
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 06 · Contact
+## 05 · Contact
 
 <div align="center">
 
