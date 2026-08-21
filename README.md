@@ -16,7 +16,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `░▒▓█` 01 · Profile
+## 01 · Profile
 
 ```text
 Player ...... Thomas Wilson
@@ -31,7 +31,7 @@ Comfortable across the stack, from low-level systems in C and Java through to cl
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `░▒▓█` 02 · Currently
+## 02 · Currently
 
 ```text
 [►] Capstone ..... DEAF Framework, extending an accessibility browser
@@ -47,7 +47,7 @@ Comfortable across the stack, from low-level systems in C and Java through to cl
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `░▒▓█` 03 · Tech Stack
+## 03 · Tech Stack
 
 <div align="center">
 
@@ -55,17 +55,9 @@ Comfortable across the stack, from low-level systems in C and Java through to cl
 
 </div>
 
-```text
-Languages ...... Java  ·  Python  ·  C  ·  JavaScript  ·  SQL
-Familiar ....... Haskell  ·  HTML  ·  Assembly
-Tools .......... Git  ·  Linux  ·  Supabase  ·  MongoDB Atlas  ·  Meta Cloud API  ·  Stack (Haskell)
-Areas .......... Systems and networking  ·  Machine learning  ·  API integration
-                 Accessibility technology  ·  Agile development
-```
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `░▒▓█` 04 · Projects
+## 04 · Projects
 
 <div align="center">
 
@@ -92,21 +84,19 @@ Team build under competition conditions, working with Git branching and merging 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `░▒▓█` 05 · Stats
+## 05 · Tech
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomDevHub&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=false&title_color=60a5fa&icon_color=60a5fa&text_color=ffffff)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=TomDevHub&theme=tokyonight&background=0d1117&border=1f6feb&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=ffffff&dates=cccccc)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomDevHub&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=false&title_color=60a5fa&text_color=ffffff)
-
-</div>
+```text
+Languages ...... Java  ·  Python  ·  C  ·  JavaScript  ·  SQL
+Familiar ....... Haskell  ·  HTML  ·  Assembly
+Tools .......... Git  ·  Linux  ·  Supabase  ·  MongoDB Atlas  ·  Meta Cloud API  ·  Stack (Haskell)
+Areas .......... Systems and networking  ·  Machine learning  ·  API integration
+                 Accessibility technology  ·  Agile development
+```
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `░▒▓█` 06 · Contact
+## 06 · Contact
 
 <div align="center">
 
